@@ -1,0 +1,10 @@
+# Node
+node_modules
+.env
+
+# Logs
+npm-debug.log*
+
+# Dependency directories
+client/node_modules
+server/node_modules
