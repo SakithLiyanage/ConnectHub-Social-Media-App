@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Social Media App
 
 This is a social media application built using the MERN stack (MongoDB, Express, React, Node.js). The frontend is developed with React and styled using Tailwind CSS. The application allows users to register, log in, create posts, and view profiles.
