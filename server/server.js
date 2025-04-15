@@ -16,7 +16,13 @@ const app = express();
 
 // Middleware
 app.use(express.json());
-app.use(cors());
+app.use(cors(
+  {
+    origin: ["https://connect-hub-social-media-app-server.vercel.app/",
+             methods: ["POST", "GET"],
+             credentials:true
+  }
+  ));
 
 // Logger
 if (process.env.NODE_ENV === 'development') {
