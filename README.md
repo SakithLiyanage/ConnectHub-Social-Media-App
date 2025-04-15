@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Social Media App
 
 This is a social media application built using the MERN stack (MongoDB, Express, React, Node.js). The frontend is developed with React and styled using Tailwind CSS. The application allows users to register, log in, create posts, and view profiles.
@@ -118,3 +119,6 @@ Feel free to submit issues or pull requests for any improvements or features you
 ## License
 
 This project is licensed under the MIT License.
+=======
+# ConnectHub-Social-Media-App
+>>>>>>> 998fcd95a675f547d2fed1418faba10adeda5c4f
